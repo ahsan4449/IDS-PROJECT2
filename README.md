@@ -23,3 +23,6 @@ This is a simple full-stack Task Tracker application developed as part of a codi
 ```bash
 python -m pip install -r requirements.txt
 python app.py
+
+## Live Link
+https://task-tracker-ofpn.onrender.com
